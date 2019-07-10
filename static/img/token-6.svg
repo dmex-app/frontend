@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" height="72" width="72" version="1.1" enable-background="new 0 0 342 342" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <g id="e-icon-flower__logo-6">
+  <g id="g91" transform="translate(16,16)">
+   <circle id="e-icon-flower__logo-bg-6" cx="20" style="fill:#ffffff" r="36" cy="20"/>
+   <g id="logo-nexo-symbol-light" transform="translate(.5 3.5)">
+    <path id="path128" style="fill:#26a8e8" d="m10.049 0.098767 18.951 10.843v11.058l-29-16.587 9.3048-5.3142c0.23031-0.13169 0.51407-0.13169 0.74439 0"/>
+    <polygon id="polygon130" style="fill:#1e51c8" points="19 5.5 29 11 29 0"/>
+    <path id="path132" style="fill:#0d3f9c" d="m29 0 9.6154 5.3822c0.24015 0.13457 0.3871 0.38418 0.38461 0.65333v21.964l-10-5.6v-22.4z"/>
+    <path id="path134" style="fill:#1e51c8" d="m39 27.593-9.2998 5.3109c-0.23102 0.12852-0.51297 0.12852-0.74399 0l-18.956-10.837v-11.067l29 16.593z"/>
+    <path id="path136" style="fill:#53bcff" d="m0 5 0.000030956 21.964c-0.0024822 0.27 0.14447 0.519 0.38462 0.654l9.6154 5.382v-22.416l-10-5.584z"/>
+    <polygon id="polygon138" style="fill:#2da7e5" points="20 27.5 10 22 10 33"/>
+   </g>
+  </g>
+ </g>
+</svg>
