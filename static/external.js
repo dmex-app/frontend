@@ -15,38 +15,38 @@ var readyStateCheckInterval = setInterval(function() {
 // /loading
 
 // Intercom
-window.intercomSettings = {
-  app_id: 'y1l3is5h',
-  hide_default_launcher: true,
-};
-(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;
-s.src='https://widget.intercom.io/widget/y1l3is5h';
-var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+// window.intercomSettings = {
+//   app_id: 'y1l3is5h',
+//   hide_default_launcher: true,
+// };
+// (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;
+// s.src='https://widget.intercom.io/widget/pabzdoay';
+// var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
 // /Intercom
 
 // Yandex.Metrika counter
-(function (d, w, c) {
-    (w[c] = w[c] || []).push(function() {
-        try {
-            w.yaCounter50578021 = new Ya.Metrika2({
-                id:50578021,
-                clickmap:true,
-                trackLinks:true,
-                accurateTrackBounce:true,
-                webvisor:true
-            });
-        } catch(e) { }
-    });
+// (function (d, w, c) {
+//     (w[c] = w[c] || []).push(function() {
+//         try {
+//             w.yaCounter50578021 = new Ya.Metrika2({
+//                 id:50578021,
+//                 clickmap:true,
+//                 trackLinks:true,
+//                 accurateTrackBounce:true,
+//                 webvisor:true
+//             });
+//         } catch(e) { }
+//     });
 
-    var n = d.getElementsByTagName("script")[0],
-        s = d.createElement("script"),
-        f = function () { n.parentNode.insertBefore(s, n); };
-    s.type = "text/javascript";
-    s.async = true;
-    s.src = "https://mc.yandex.ru/metrika/tag.js";
+//     var n = d.getElementsByTagName("script")[0],
+//         s = d.createElement("script"),
+//         f = function () { n.parentNode.insertBefore(s, n); };
+//     s.type = "text/javascript";
+//     s.async = true;
+//     s.src = "https://mc.yandex.ru/metrika/tag.js";
 
-    if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f, false);
-    } else { f(); }
-})(document, window, "yandex_metrika_callbacks2");
+//     if (w.opera == "[object Opera]") {
+//         d.addEventListener("DOMContentLoaded", f, false);
+//     } else { f(); }
+// })(document, window, "yandex_metrika_callbacks2");
 // /Yandex.Metrika counter
